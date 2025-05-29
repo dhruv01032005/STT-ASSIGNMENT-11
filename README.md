@@ -1,7 +1,8 @@
 # STT-ASSIGNMENT-11 - Model Quantization
 
-## TEAM NUMBER - 10
-## TEAM MEMBERS - 
+## Team Number - 10
+
+## Team Members - 
 1. Dhruv Goel(23110098)
 2. Nitin Bansal(23110223)
 
@@ -19,6 +20,7 @@ This assignment aims at quantization of the Neural Network model.
 3. Can be helpful for edge devices like Raspberry Pi, mobile phones, FPGA, etc.
 
 ## Work Distribution -
-As it was a small assignment and unavailablity of my teammate due to final exam I did the whole assignemnt.
+As it was a small assignment and unavailablity of my teammate due to final exam I did the assignemnt.
 
-## Observations - 
+## Observations  
+![Observations](QUANTIZATION%20RESULTS.png)
